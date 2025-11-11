@@ -1,0 +1,3 @@
+-std=gnu2y
+-g
+-Iinclude
